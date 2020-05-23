@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Lab2_C","l":"CalculateMatrix(int[][])"},{"p":"<Unnamed>","c":"Lab2_C","l":"Lab2_C()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Lab2_C","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"Lab2_C","l":"Minor(int[][], int, int)","url":"Minor(int[][],int,int)"}]
